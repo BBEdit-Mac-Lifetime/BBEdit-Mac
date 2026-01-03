@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/8e/ee/268eee78-7f87-4481-e7d8-06c538d9b979/BBEditApplication-0-0-85-220-0-0-5-0-2x.png/1200x630bb.png" width="200" alt="BBEdit macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/BBEdit">
+ <a href="https://gnomik-gomik-apps.github.io/.github/BBEdit">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open BBEdit macOS page">
  </a><br><br>
  <div align="center">
